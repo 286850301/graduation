@@ -19,9 +19,9 @@
 ## 工作原理
 
 ### 设备部署
-1.1 总部部署：加密网关（Hub）和个人计算机（host_behind_hub）
+1.1 总部部署：C-Terra Gateway加密网关（Hub）和个人计算机（host_behind_hub）
 
-1.2 分支机构部署：加密网关（Spoke）和个人计算机（host_behind_spoke）
+1.2 分支机构部署：C-Terra Gateway加密网关（Spoke）和个人计算机（host_behind_spoke）
 
 ## Hub设备配置
 

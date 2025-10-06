@@ -69,3 +69,27 @@ Telecom-Systems-Protocols-and-Technologies/
 │   └── Individual_Protocol_State_Diagram.png
 ├── 📜 README.md             # 本文件
 └── 📜 .gitignore
+```
+
+## 🚀 开始使用
+
+### 环境准备
+- **仿真工具:** [NS-3](https://www.nsnam.org/), OMNeT++ 或类似工具。
+- **编程语言:** Python (使用 Matplotlib, NumPy 等库), C++。
+- **建模工具:** 绘图工具 (如 Draw.io, Dia)。
+- **文档撰写:** LaTeX 或 Word，用于按照 ГОСТ 7.32 标准撰写报告。
+
+### 如何使用本仓库
+1.  **导航**到特定的实验文件夹 (例如 `Reports/LR1/`) 查找报告和相关材料。
+2.  **查看** `Simulations/` 目录下的仿真代码。每个子文件夹对应一个特定的实验或分析。
+3.  **查看** `Diagrams/` 文件夹，获取协议状态机和网络架构的可视化图表。
+
+## 📄 报告格式
+
+所有实验报告均按照 **俄罗斯国家标准 ГОСТ 7.32** 进行格式化。每份报告包括：
+- 工作名称
+- 引言 (目标、任务)
+- 理论背景
+- 仿真模型描述
+- 带分析的仿真结果 (图表、表格)
+- 结论

@@ -16,7 +16,7 @@
 
 ## 交互方案
 
-![网络拓扑](/images/fig3.1.png)
+![网络拓扑](./images/fig3.1.png)
    ![网络接口](./images/fig1.2.png)
 
 ## 总体工作逻辑

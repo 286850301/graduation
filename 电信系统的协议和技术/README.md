@@ -14,7 +14,7 @@
 | 序号 | 实验名称 | 研究领域 | 关键技术 |
 |---|-------|------------|------------------|
 | [实验 1](Reports/LR1.doxc/) | **物理层与数据链路层分析** | 底层协议性能分析 | IEEE 802.11系列, LTE, 5G, LoRaWAN, ZigBee, Ethernet, PLC |
-| [实验 2](Reports/LR2/) | **网络分析与管理系统研究** | 网络监控与管理工具 | IEEE 802.11系列, LTE, 5G, LoRaWAN, ZigBee, Ethernet, PLC |
+| [实验 2](Simulations/lab1/) | **网络分析与管理系统研究** | 网络监控与管理工具 | IEEE 802.11系列, LTE, 5G, LoRaWAN, ZigBee, Ethernet, PLC |
 | [实验 3](Reports/LR3/) | **应用自动化监控的设备管理** | 设备管理的自动化监控 | IEEE 802.11系列, LTE, 5G, LoRaWAN, ZigBee, Ethernet, PLC |
 | [实验 4](Reports/LR4/) | **广域网络架构研究** | 广域网架构 | IEEE 802.11系列, LTE, 5G, LoRaWAN, ZigBee, Ethernet, PLC |
 | [实验 5](Reports/LR5/) | **网络层交互原理研究** | 网络层协议与路由 | IEEE 802.11系列, LTE, 5G, LoRaWAN, ZigBee, Ethernet, PLC |
